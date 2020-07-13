@@ -1,5 +1,5 @@
 # Super Engine
-Super Engine is a Simple Website Template Written in HTML, CSS &amp; JavaScript. I've also used JQuery, Bootstrap 4 &amp; Font Awesome to Improve This Template.  
+Super Engine is a Simple & Responsive Website Template Written in HTML, CSS &amp; JavaScript. I've also used JQuery, Bootstrap 4 &amp; Font Awesome to Improve This Template.  
 
 __Support My Work By Starring This Repository on Github.__
 
